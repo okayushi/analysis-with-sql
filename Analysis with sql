@@ -1,4 +1,4 @@
-**here we are creating a databse within which we are creating multiple tables and analysing them**
+**here we are creating a database within which we are creating multiple tables and analyzing them**
 
 // creating a new database//
 CREATE DATABASE record_company;
